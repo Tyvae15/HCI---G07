@@ -1,0 +1,14 @@
+{
+  "name": "mapa-de-relatos",
+  "version": "1.0.0",
+  "description": "Proyecto C (HCI ULima 2026-2): plataforma de narración colaborativa y espacial",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node tests/model.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
